@@ -1,0 +1,47 @@
+.headshot {
+	border-radius: 100%;
+}
+
+#summary {
+	font-size: 18px;
+}
+
+* {
+	font-family: 'Slabo 27px', serif;
+	color: #eee8dc;
+}
+
+body {
+	background-image: url("images/computerBackground.jpg");
+	background-size: 100% auto;
+/*	-webkit-filter: blur(2px);
+	filter: blur(2px);*/
+/*	z-index: -1000;*/
+}
+
+.navCustom {
+	background-color: #213B53;
+	background-outline: none; 
+  	-webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important; 
+}
+
+#div {
+	background-color: rgba(0,0,0,0.5);
+	border: rgb(0,0,0);
+	padding: 50px 50px 75px 50px;
+}
+
+#projDiv {
+	background-color: rgba(0,0,0,0.5);
+	border: rgb(0,0,0);
+}
+
+.gif {
+	margin: 0 auto;
+}
+
+.dangerBack {
+	margin: 0 auto;
+}
