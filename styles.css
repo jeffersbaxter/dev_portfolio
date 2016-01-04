@@ -48,6 +48,14 @@ body {
 	margin: 0 auto;
 }
 
+.backBtn {
+	background-color: #4F697F;
+}
+
+.contactLink {
+	color: #4F697F;
+}
+
 .dangerBack {
 	margin: 0 auto;
 }
