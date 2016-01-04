@@ -33,6 +33,12 @@ body {
 	padding: 50px 50px 75px 50px;
 }
 
+#contact {
+	background-color: rgba(0,0,0,0.5);
+	border: rgb(0,0,0);
+	padding: 50px 50px 50px 50px;
+}
+
 #projDiv {
 	background-color: rgba(0,0,0,0.5);
 	border: rgb(0,0,0);
