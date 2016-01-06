@@ -34,11 +34,8 @@ header {
 }
 
 body {
-	background-image: url("images/computerBackground.jpg");
+	background-image: url("images/computerBgCmp.jpg");
 	background-size: 100% auto;
-/*	-webkit-filter: blur(2px);
-	filter: blur(2px);*/
-/*	z-index: -1000;*/
 }
 
 .navCustom {
