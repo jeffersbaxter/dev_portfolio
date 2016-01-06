@@ -77,6 +77,10 @@ body {
 	border: 1px solid #203E57;
 }
 
+.backBtn:hover {
+	background-color: rgba(0,0,0,0);
+}
+
 .contactLink {
 	color: #4F697F;
 }
