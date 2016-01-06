@@ -2,6 +2,28 @@
 	border-radius: 100%;
 }
 
+#indexSplash {
+	background-color: rgba(0,0,0,0.5);
+	  position: fixed; 
+	  height: 100%;
+	  width: 100%;
+	  margin: 0;
+	  padding:0;
+	  z-index: 3;
+}
+
+#splashTitle {
+	margin-top: 150px;
+}
+
+.splashDetails {
+	font-size: 36px;
+}
+
+header {
+	font-size: 48px;
+}
+
 #summary {
 	font-size: 18px;
 }
@@ -25,6 +47,8 @@ body {
   	-webkit-border-radius: 0 !important;
     -moz-border-radius: 0 !important;
     border-radius: 0 !important; 
+    margin-bottom: -20px;
+    z-index: 5;
 }
 
 #div {
@@ -50,6 +74,7 @@ body {
 
 .backBtn {
 	background-color: #4F697F;
+	border: 1px solid #203E57;
 }
 
 .contactLink {
