@@ -54,8 +54,14 @@ body {
 #div {
 	background-color: rgba(0,0,0,0.5);
 	border: rgb(0,0,0);
-	text-align: justify;
 	padding: 50px 50px 50px 50px;
+}
+
+#aboutDiv {
+	background-color: rgba(0,0,0,0.5);
+	border: rgb(0,0,0);
+	text-align: justify;
+	padding: 50px 50px 50px 50px;	
 }
 
 .aboutContent {
